@@ -1,0 +1,15 @@
+.header {
+    background: url("https://www.oecd-nea.org/upload/docs/image/jpeg/2020-11/book_stack.jpg");
+}
+.background-opacity {
+    background-color: rgba(0, 0, 0, 0.47);
+}
+.form {
+    border: none;
+    padding: 5px 10px;
+}
+.m-form {
+    margin: auto 0;
+    padding: 0;
+}
+
