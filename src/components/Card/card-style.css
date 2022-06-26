@@ -1,0 +1,16 @@
+
+.background {
+    background-color: #d0d0d0;
+    width: 250px;
+    /*height: 355px;*/
+}
+.shadow-custom {
+    box-shadow: 7px 10px 15px rgba(0, 0, 0, 0.5);
+}
+.text-custom {
+
+}
+.title {
+
+}
+

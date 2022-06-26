@@ -1,0 +1,10 @@
+.background-large-custom {
+    background-color: #d0d0d0;
+}
+.border-custom {
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px black;
+}
+.page {
+    height: 80vh;
+}
